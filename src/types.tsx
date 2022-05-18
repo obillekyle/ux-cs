@@ -1,0 +1,1 @@
+export type settingsType = (key: string, value?: any) => any

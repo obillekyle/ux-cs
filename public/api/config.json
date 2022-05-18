@@ -1,0 +1,16 @@
+{
+  "primaryColor": "blue",
+  "fontFamily": "Source Sans Pro",
+  "fontFamilyMonospace": "JetBrains Mono",
+  "focusRing": "auto",
+  "black": "#000000",
+  "white": "#FFFFFF",
+  "dir": "ltr",
+  "headings": {
+    "fontFamily": "Source Sans Pro"
+  },
+  "other": {
+    "title": "VOTECAUE",
+    "logo": "/assets/logo.png"
+  }
+}
