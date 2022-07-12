@@ -10,7 +10,7 @@
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.9.3",
-    "@iconify/react": "^3.2.1",
+    "@iconify/react": "^3.2.2",
     "@mantine/core": "^4.2.5",
     "@mantine/dates": "^4.2.5",
     "@mantine/dropzone": "^4.2.5",
