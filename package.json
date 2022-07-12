@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
-    "@emotion/styled": "^11.8.1",
+    "@emotion/styled": "^11.9.3",
     "@iconify/react": "^3.2.1",
     "@mantine/core": "^4.2.5",
     "@mantine/dates": "^4.2.5",
